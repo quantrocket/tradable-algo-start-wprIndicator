@@ -1,0 +1,7 @@
+Plugin-Version: 1.0
+Plugin-Type: tradable_indicator
+Plugin-ClassPath: ${classpath}
+Plugin-Vendor-Id: tradable
+Plugin-SymbolicName: com.tradable.exampleIndicator.wpr
+Plugin-Name: WPR Indicator
+Plugin-Vendor: tradable
